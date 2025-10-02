@@ -1,5 +1,3 @@
-package sorting;
-
 public class Quicksort {
     public static void quicksort(int arr[] ,int low,int high){
 if(low<high){

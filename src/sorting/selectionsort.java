@@ -1,5 +1,3 @@
-package sorting;
-
 public class selectionsort {
     static void swap(int[] arr,int st,int end){
         int temp=arr[st];
